@@ -3,5 +3,5 @@ In Chrome 45 the Slimming Paint feature is enabled by default. This feature caus
 
 More information on the bug can be found in the related Wordpress and Chrome tickets.
 
-https://core.trac.wordpress.org/ticket/33199
-https://code.google.com/p/chromium/issues/detail?id=509179
+* https://core.trac.wordpress.org/ticket/33199
+* https://code.google.com/p/chromium/issues/detail?id=509179
